@@ -1,3 +1,5 @@
+# s-and-p-500
+
 S&P 500 index data including level, dividend, earnings and P/E ratio on a
 monthly basis since 1870. The S&P 500 (Standard and Poor's 500) is a
 free-float, capitalization-weighted index of the top 500 publicly listed stocks
