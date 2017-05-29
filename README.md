@@ -1,5 +1,7 @@
 # s-and-p-500
 
+Revision #1
+
 [![Goodtables](http://staging.goodtables.io/badge/github/roll/s-and-p-500.svg)](http://staging.goodtables.io/github/repo/roll/s-and-p-500)
 
 S&P 500 index data including level, dividend, earnings and P/E ratio on a
